@@ -10,6 +10,8 @@ Fall 2013
 Assignments are used for reference and learning purposes.
 
 -Jimi Oktober 2, 2013
+
+UPDATES FROM THE AUTHOR - JIMI
 ==================================================================================================================
 
 
