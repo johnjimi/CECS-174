@@ -9,3 +9,4 @@ public static void main(String[] args)
   System.out.println(" Finally, 30/4 = "+30/4+" which is only the quotient.");
  }//end main
 }//end Class JavaMathOperators
+//Problem 3
