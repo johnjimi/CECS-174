@@ -6,7 +6,8 @@ public static void main(String[] args){
   for(i=1;i<=20;i=i+1){
    System.out.println(i);
    sum=sum+i;
-  }
+  }//end Loop
   System.out.println("The sum of all twenty numebers is: "+sum);
-  }
- }
+  }//end main
+ }//end class ForLoopExample
+// Problem 5
