@@ -52,5 +52,5 @@ public class ButtonCanvasPress extends Applet
 		}
 	}//end paint
 }// end Draw
-// end buttonvanvaspress
+// end buttoncanvaspress
 }
