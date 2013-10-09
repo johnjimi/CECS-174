@@ -31,4 +31,4 @@ public static void blank(int n)
 	}//end for
  }//end star
 }//end starShapesVer2
-
+//Problem 3
