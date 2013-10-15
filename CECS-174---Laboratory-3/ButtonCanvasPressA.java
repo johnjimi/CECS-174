@@ -1,4 +1,5 @@
 //Getting input with ActionListener and Using Canvas to Paint
+// Problem 1, Credits goes to Emil E. that completed this one.
 //Use Canvas instead of the default "this" frame panel
 import java.awt.*;
 import java.awt.event.*;
