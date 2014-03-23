@@ -16,10 +16,10 @@ UPDATES FROM THE AUTHOR - JIMI
 
 
 Updating CECS 174 ...
-Estimated this Repository to finish by January 2014.
+Estimated this Repository to finish by Summer 2014.
 Revise period TBA.
 
 
--Jimi (Oktober 3, 2013)
+-Jimi (March 22, 2013)
 
 ==================================================================================================================
